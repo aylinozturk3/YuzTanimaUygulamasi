@@ -1,0 +1,2 @@
+# YuzTanimaUygulamasi
+Python(OpenCv)
